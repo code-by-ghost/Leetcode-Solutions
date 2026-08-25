@@ -26,3 +26,18 @@ Each file contains the **full C++ solution code**.
 - Filenames follow the **LC<number>-Problem Name** convention.  
 - Each `.cpp` file contains the **complete working solution**.  
 - Explanations (intuition, approach, complexity, dry run) are provided in the repo’s main README and/or individual problem notes.
+
+## 📸 Socials
+
+Stay connected and follow along for daily DSA content, problem breakdowns, and carousel posts:
+
+- Instagram: [@dsa.ghost](https://www.instagram.com/dsa.ghost)
+- GitHub: [code-by-ghost](https://github.com/code-by-ghost/Leetcode-Solutions)
+
+💡 I regularly share:
+- Infographic carousels explaining LeetCode problems
+- Step-by-step solution breakdowns
+- Code snippets with complexity analysis
+- Dry run examples for clarity
+
+👉 Save posts for your prep, share with friends, and join the journey
